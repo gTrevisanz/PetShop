@@ -59,3 +59,11 @@
   .titulo{
 	color: black;
   }
+
+  .tituloSection {
+	display: flex;
+	justify-content: center;
+	background-color: #bebebe;
+	font-size: 35px;
+	color: black;
+  }

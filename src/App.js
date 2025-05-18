@@ -4,8 +4,8 @@ import Home from "./pages/Home";
 import BanhoTosa from "./pages/BanhoTosa";
 import HotelResort from "./pages/HotelResort";
 import Adestramento from "./pages/Adestramento";
-import NavbarMenu from "./components/NavbarMenu";
-import Banner from "./components/Banner"
+import NavbarMenu from "./pages/NavbarMenu";
+
 
 const App = () => {
 	return (
